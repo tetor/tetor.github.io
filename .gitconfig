@@ -1,0 +1,2 @@
+[alias]
+  deploy = git subtree push --prefix=public --squash --no-commit origin master

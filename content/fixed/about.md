@@ -1,31 +1,30 @@
-{
-    "title": "About",
-    "sidebar": true,
-    "weight": "1"
-}
++++
+title = "About Me"
+sidebar = true
+weight = 1
++++
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<img src="/image/about_me/profile.png" alt="profile_image" style="margin: 4rem auto">
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## tetor
 
-There are currently two themes built on Poole:
+I’m a full-stack web (and software) engineer. I’m good at AWS, MongoDB, Chef, Javascript and Python, and write Ruby, Node.js and PHP as well. I live in Tokyo, Japan.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Please feel free to contact me by email.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Work
 
-## Setup
+[nanoc-graphviz](https://github.com/tetor/nanoc-graphviz) : The Gem of Nanoc’s Graphviz filter plugin.
 
-Some fun facts about the setup of this project include:
+## Links
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+- Blog                  : [English Blog Top](https://tetor.github.io)
+- Qiita (Japanese blog) : [Qiita My Page](http://qiita.com/tetor)
+- Github                : [tetor](https://github.com/tetor)
+- Twitter               : [@t_etor](http://twitter.com/t_etor)
+- old blog              : [tech blog (Japanese)](http://akihatoetsu.tumblr.com)
+- E-Mail                : t.etou.0101@gmail.com
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+## Certificates
 
-Thanks for reading!
+![aws_solutions_architect_associate](/image/about_me/aws_solutions_architect_associate.png)

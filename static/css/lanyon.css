@@ -304,6 +304,7 @@ a.sidebar-nav-item:focus {
 .page,
 .post {
   margin-bottom: 4em;
+  font-size: .9rem
 }
 
 /* Blog post or page title */
@@ -323,6 +324,10 @@ a.sidebar-nav-item:focus {
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: #9a9a9a;
+}
+
+#disqus_thread {
+  margin-top: 60px;
 }
 
 /* Related posts */
@@ -529,4 +534,16 @@ a.pagination-item:hover {
 .theme-base-0f .sidebar-toggle,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+/* Violet */
+.theme-base-violet .sidebar,
+.theme-base-violet .sidebar-toggle:active,
+.theme-base-violet #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #3D2A3C;
+}
+.theme-base-violet .container a,
+.theme-base-violet .sidebar-toggle,
+.theme-base-violet .related-posts li a:hover {
+  color: #3e958c;
 }

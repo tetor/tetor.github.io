@@ -18,7 +18,7 @@ Please feel free to contact me by email.
 
 ## Links
 
-- Blog                  : [English Blog Top](https://tetor.github.io)
+- Blog                  : [English Blog Top](http://tetor.github.io)
 - Qiita (Japanese blog) : [Qiita My Page](http://qiita.com/tetor)
 - Github                : [tetor](https://github.com/tetor)
 - Twitter               : [@t_etor](http://twitter.com/t_etor)

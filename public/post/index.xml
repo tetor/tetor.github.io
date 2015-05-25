@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> </title>
+    <link>http://tetor.github.io/post/</link>
+    <language>en-us</language>
+    <author>tetor</author>
+    <rights>(C) 2015</rights>
+    <updated>2015-05-26 02:29:32 &#43;0900 JST</updated>
+
+    
+      
+        <item>
+          <title>first post</title>
+          <link>http://tetor.github.io/2015/05/26/first-post/</link>
+          <pubDate>Tue, 26 May 2015 02:29:32 JST</pubDate>
+          <author>tetor</author>
+          <guid>http://tetor.github.io/2015/05/26/first-post/</guid>
+          <description>&lt;p&gt;I create a new blog and decide that I&amp;rsquo;ll write this in (poor) English.&lt;/p&gt;
+
+&lt;p&gt;This blog uses &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; engine which made from Go-lang, and inspired by Jekyll.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>

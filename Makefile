@@ -11,4 +11,4 @@ start:
 	hugo server --buildDrafts --watch
 
 deploy: build
-	git deploy = subtree push --prefix=public --squash origin master
+	git subtree push --prefix=public --squash origin master

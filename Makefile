@@ -1,8 +1,14 @@
-.PHONY: start chean
+.PHONY: start chean build deploy
+
+build: clean
+	hugo
+
+clean:
+	rm -r public
+	mkdir public
 
 start:
 	hugo server --buildDrafts --watch
 
-clean:
-	rm -f public/*
-	rm -fr public/*
+deploy: build
+	git deploy = subtree push --prefix=public --squash origin master

@@ -12,6 +12,7 @@
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item {{ if eq .URL "/" }} active {{ end }}" href="/">Home</a>
     <a class="sidebar-nav-item {{ if eq .URL "post" }} active {{ end }}" href="/post">Posts</a>
+    <a target="_blank" class="sidebar-nav-item {{ if eq .URL "post" }} active {{ end }}" href="https://twitter.com/t_etor"><i class="fa fa-twitter"></i> &nbsp;@t_etor</a>
 
     {{ $thisperma := .Permalink }}
     {{ range .Site.Pages.ByWeight }}
@@ -19,8 +20,9 @@
         <a class="sidebar-nav-item {{ if eq .Permalink $thisperma }} active {{ end }}" href="{{ .Permalink }}">{{ .Title }}</a>
       {{ end }}
     {{ end }}
-  </nav>
 
+
+  </nav>
   <div class="sidebar-item">
     <p>&copy; {{ .Site.LastChange.Year }}. All rights reserved.</p>
   </div>

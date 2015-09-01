@@ -4,7 +4,7 @@ build: clean
 	hugo
 
 clean:
-	rm -r public
+	rm -rf public
 	mkdir public
 
 start:

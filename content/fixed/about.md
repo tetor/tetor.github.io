@@ -10,7 +10,7 @@ weight = 1
 
 I’m a full-stack web (and software) engineer. I’m good at AWS, MongoDB, Chef, Javascript and Python, and write Ruby, Node.js and PHP as well. I live in Tokyo, Japan.
 
-Please feel free to contact me by email.
+Please feel free to contact me by [Gitter](https://gitter.im/tetor) or E-mail.
 
 ## Work
 
@@ -21,9 +21,12 @@ Please feel free to contact me by email.
 - Blog                  : [English Blog Top](http://tetor.github.io)
 - Qiita (Japanese blog) : [Qiita My Page](http://qiita.com/tetor)
 - Github                : [tetor](https://github.com/tetor)
+
+- Gitter                : [Gitter](https://gitter.im/tetor)
 - Twitter               : [@t_etor](http://twitter.com/t_etor)
-- old blog              : [tech blog (Japanese)](http://akihatoetsu.tumblr.com)
 - E-Mail                : t.etou.0101@gmail.com
+
+- old blog              : [tech blog (Japanese)](http://akihatoetsu.tumblr.com)
 
 ## Certificates
 

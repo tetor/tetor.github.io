@@ -1,0 +1,15 @@
+---
+contentdir: content
+layoutdir: layouts
+publishdir: public
+builddrafts: false
+baseurl: http://tetor.github.io
+canonifyurls: true
+permalinks:
+  post: ':year/:month/:day/:title/'
+  fixed: ':title/'
+params:
+  Title: tetor
+  Tagline: A Web Engineer
+  Author: tetor
+  DateForm: 'Mon Jan 2, 2006'

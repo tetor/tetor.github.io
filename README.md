@@ -1,11 +1,14 @@
 # tetor.github.io
 
-## hot to deploy
+## how to write article
 
-1st. Build web page to `public` directory.
+- checkout develop br. Don't write at master.
+- Create page; plz read hugo's doc.
+- Don't commit directly to master branch and don't create master br copy in local.
 
-    hugo
 
-2nd. `git deploy` alias command has been set in gitconfig.
+## how to deploy
 
-    git deploy
+```
+$ make deploy
+```

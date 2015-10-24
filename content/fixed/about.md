@@ -4,7 +4,8 @@ sidebar = true
 weight = 1
 +++
 
-<img src="/image/about_me/profile.png" alt="profile_image" style="margin: 4rem auto">
+<!--- <img src="/image/about_me/profile.png" alt="profile_image" style="margin: 4rem auto"> --->
+<img src="/image/about_me/profile.jpeg" alt="profile_image" style="margin: 4rem auto">
 
 ## tetor
 

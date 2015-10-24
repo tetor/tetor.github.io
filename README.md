@@ -11,6 +11,7 @@
 ## how to deploy
 
 ```
+$ make build
 $ git push origin develop
 $ make deploy
 ```

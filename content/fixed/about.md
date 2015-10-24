@@ -25,8 +25,9 @@ Feel free to contact me by [Gitter](https://gitter.im/tetor) or E-mail.
 - Github                      : [tetor](https://github.com/tetor)
 - Gitter                      : [Gitter](https://gitter.im/tetor)
 - Thech Blog                  : [English Blog Top](http://tetor.github.io)
-<!--- - Qiita (Japanese Thech blog) : [Qiita My Page](http://qiita.com/tetor) --->
 - E-Mail                      : t.etou.0101 at gmail.com
+
+<!--- - Qiita (Japanese Thech blog) : [Qiita My Page](http://qiita.com/tetor) --->
 <!--- - old blog                    : [tech blog (Japanese)](http://akihatoetsu.tumblr.com) --->
 
 ## Certificates

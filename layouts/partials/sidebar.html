@@ -12,17 +12,24 @@
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item {{ if eq .URL "/" }} active {{ end }}" href="/">Home</a>
     <a class="sidebar-nav-item {{ if eq .URL "post" }} active {{ end }}" href="/post">Posts</a>
-    <a target="_blank" class="sidebar-nav-item {{ if eq .URL "post" }} active {{ end }}" href="https://twitter.com/t_etor"><i class="fa fa-twitter"></i> &nbsp;@t_etor</a>
-
     {{ $thisperma := .Permalink }}
     {{ range .Site.Pages.ByWeight }}
       {{ if isset .Params "sidebar" }}
         <a class="sidebar-nav-item {{ if eq .Permalink $thisperma }} active {{ end }}" href="{{ .Permalink }}">{{ .Title }}</a>
       {{ end }}
     {{ end }}
-
-
   </nav>
+
+  <div class="sidebar-item">
+    <p>Follow me</p>
+  </div>
+  <nav class="sidebar-nav">
+    <a target="_blank" class="sidebar-nav-item {{ if eq .URL "post" }} active {{ end }}" href="https://twitter.com/t_etor"><i class="fa fa-twitter"></i> &nbsp;@t_etor</a>
+    <a target="_blank" class="sidebar-nav-item {{ if eq .URL "post" }} active {{ end }}" href="https://github.com/tetor"><i class="fa fa-github-alt"></i> &nbsp;tetor</a>
+    <a target="_blank" class="sidebar-nav-item {{ if eq .URL "post" }} active {{ end }}" href="https://www.facebook.com/profile.php?id=100009950959120"><i class="fa fa-facebook"></i> &nbsp;tetor</a>
+    <a target="_blank" class="sidebar-nav-item {{ if eq .URL "post" }} active {{ end }}" href="https://www.linkedin.com/in/tetor"><i class="fa fa-linkedin"></i> &nbsp;tetor</a>
+  </nav>
+
   <div class="sidebar-item">
     <p>&copy; {{ .Site.LastChange.Year }}. All rights reserved.</p>
   </div>

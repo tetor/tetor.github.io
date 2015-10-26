@@ -10,8 +10,8 @@ weight = 1
 ## tetor
 
 
-I'm a freelance software engineer and a Web Tech Consultant for who have only biz idea but don't know how to do Constraction" .
-I help and assist them to get success in Web biz.
+I'm a Web Full-Stack Engineer and a Web Tech Consultant as freelance.
+I assist who has business idea but doesn't have knowledge of technology to get success in Web.
 
 Feel free to contact me by [Gitter](https://gitter.im/tetor) or E-mail.
 
@@ -24,7 +24,8 @@ Feel free to contact me by [Gitter](https://gitter.im/tetor) or E-mail.
 - Twitter                     : [@t_etor](http://twitter.com/t_etor)
 - Github                      : [tetor](https://github.com/tetor)
 - Gitter                      : [Gitter](https://gitter.im/tetor)
-- Thech Blog                  : [English Blog Top](http://tetor.github.io)
+- Tech Blog                   : [English Blog Top](http://tetor.github.io)
+- Japanese Profile Page       : [Flavors](http://tetor.flavors.me)
 - E-Mail                      : t.etou.0101 at gmail.com
 
 <!--- - Qiita (Japanese Thech blog) : [Qiita My Page](http://qiita.com/tetor) --->

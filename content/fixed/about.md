@@ -35,12 +35,16 @@ Feel free to contact me by [Gitter](https://gitter.im/tetor) or E-mail.
 
 ![aws_solutions_architect_associate](/image/about_me/aws_solutions_architect_associate.png)
 
-
-## Gitter Direct Chat
-
+## Comment
+<div id="disqus_thread"></div>
 <script>
-    ((window.gitter = {}).chat = {}).options = {
-      room: 'tetor'
-    };
+(function() {  // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = '//akihatumblr.disqus.com/embed.js';
+
+    s.setAttribute('data-timestamp', +new Date());
+     (d.head || d.body).appendChild(s);
+})();
 </script>
-<script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>)
+

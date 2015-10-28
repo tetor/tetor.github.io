@@ -34,3 +34,11 @@ Feel free to contact me by [Gitter](https://gitter.im/tetor) or E-mail.
 ## Certificates
 
 ![aws_solutions_architect_associate](/image/about_me/aws_solutions_architect_associate.png)
+
+
+<script>
+    ((window.gitter = {}).chat = {}).options = {
+      room: 'tetor/gulp-stylus-help'
+    };
+</script>
+<script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>

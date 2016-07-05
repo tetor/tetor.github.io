@@ -17,6 +17,7 @@ Feel free to contact me by [Gitter](https://gitter.im/tetor) or E-mail.
 
 ## Work
 
+[mathetats](https://www.npmjs.com/package/mathetats): A JavaScript mathematics lib for statistics; NPM.
 [nanoc-graphviz](https://github.com/tetor/nanoc-graphviz) : The Gem of Nanoc’s Graphviz filter plugin.
 
 ## Links

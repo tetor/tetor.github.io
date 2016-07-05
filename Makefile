@@ -1,4 +1,4 @@
-.PHONY: start chean build deploy
+.PHONY: start clean build deploy
 
 build: clean
 	hugo
